@@ -57,7 +57,7 @@ namespace OnlineShoppingStore
             //app.UseFacebookAuthentication(
             //   appId: "",
             //   appSecret: "");
-
+//bhuwan shah
             //app.UseGoogleAuthentication(new GoogleOAuth2AuthenticationOptions()
             //{
             //    ClientId = "",
